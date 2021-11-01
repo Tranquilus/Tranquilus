@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tranquilus, formerly known as Nephilim.
+- 👋 Hi, I’m @Tranquilus, formerly known as Joshua.
 - 👀 I’m interested in coding HTML/Python/Lua.
 - 🌱 I’m currently learning HTML at the moment, and I plan to learn Python/Lua as I go on.
 - 💞️ I’m looking to collaborate on webpage browsers.
